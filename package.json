@@ -1,0 +1,22 @@
+{
+  "name": "@marvelsq/linter",
+  "version": "1.0.0",
+  "description": "a linter",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarvelSQ/linter.git"
+  },
+  "keywords": [
+    "lint"
+  ],
+  "author": "MarvelSQ <sun1993hlj@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarvelSQ/linter/issues"
+  },
+  "homepage": "https://github.com/MarvelSQ/linter#readme"
+}
